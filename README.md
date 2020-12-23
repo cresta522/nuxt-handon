@@ -15,6 +15,13 @@ $ npm run start
 
 # generate static project
 $ npm run generate
+
+# nuxt community
+https://github.com/nuxt-community/
+
+# awesome in nuxt community
+https://github.com/nuxt-community/awesome-nuxt
+
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
